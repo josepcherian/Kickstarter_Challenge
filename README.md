@@ -18,11 +18,9 @@ For the second deliverable, we can see differnt outcomes based on different goal
 
 ### Analysis of Outcomes Based on Launch Date
 Data was filtered according to the theatres,number of outcomes were nominal and were filterd from the data set
-![Graph 1. Theater Outcomes based on Launch Dates](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Because of different outcomes data was again filterd from the data set.Additional filter applied for the plays subcategory on behaf of customer request.Goals were divided into multiple groups,total number of successful, failed and canceled outcomes were calculated for each group and converted into percentages
-![Graph 2. Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 The percentage of canceled projects had all zeros, initialy thought that it happened due to calculation errors but later found that no canceled projects were there while applying the subcategory filter.The formulas were checked and verified multiple times.
